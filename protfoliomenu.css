@@ -1,0 +1,16 @@
+.promenuhead{
+    font-weight: bold ;
+    font-size: 18px;
+    color: white;
+    text-decoration: none !important;
+}
+
+.promenuhead:hover{
+    color:  rgb(27, 189, 189);;
+    transition: all 0.5s ease-in-out;
+ 
+    
+}
+.non{
+    text-decoration: none !important;
+}
