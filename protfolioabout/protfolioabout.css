@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Josefin+Sans&display=swap');
+
+.proaboutname{
+    display: grid;
+    place-items: center;
+    
+}
+.proaboutphoto{
+   display: grid;
+   place-items: center;
+   position: relative;
+
+}
+.protfololiobody{
+    background-image: url("./back1.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+.propng{
+    position:absolute;
+    min-width:38vw;
+    top:50px;
+    
+}
+.prohari{
+    z-index: 1;
+}
+.propng{
+    transform:(90deg);
+    animation: proaboutmove 13s linear infinite;
+}
+@keyframes proaboutmove{
+    50%{
+        
+        top:10px;
+        bottom:20px ;
+    }
+}
+.proaboutname p{
+   
+     font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+.proaboutdis{
+    color: rgb(27, 189, 189);
+}
+.proaboutbtn{
+    background-color: rgb(27, 136, 13);
+    font-size:13px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    padding:8px;
+    border: none;
+    margin-left: 250px;
+    border-radius: 5px;
+    
+}
+.proaboutbtn a{
+    text-decoration: none;
+    color: rgb(255, 248, 248);
+    
+}
+.proaboutbtn:hover{
+    transform: scale(1.1);
+}
