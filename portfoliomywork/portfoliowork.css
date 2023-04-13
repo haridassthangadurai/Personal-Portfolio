@@ -1,0 +1,144 @@
+.porworkbody{
+   background-image:url("./back3.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.portworkdiv1{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: rgb(215, 94, 23);
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+    font-weight: 800;
+
+}
+.portworkdiv1:hover{
+    transform: scale(1.2);
+    color:rgb(215, 94, 23) ;
+    text-shadow: 0 0 10px rgb(215, 94, 23) ,
+                 0 0 20px rgb(215, 94, 23) ,
+                 0 0 40px rgb(215, 94, 23) ,
+                 0 0 80px rgb(215, 94, 23) ,
+                 0 0 120px rgb(215, 94, 23) ,
+                 0 0 160px rgb(215, 94, 23) ;
+}
+.portworkdiv2{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    /* backdrop-filter: blur(5px); */
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: rgb(52, 23, 215) ;
+
+}
+.portworkdiv2:hover{
+ 
+    color: rgb(52, 23, 215) ;
+    text-shadow: 0 0 10px  rgb(52, 23, 215) ,
+                 0 0 20px  rgb(52, 23, 215) ,
+                 0 0 40px  rgb(52, 23, 215) ,
+                 0 0 80px  rgb(52, 23, 215) ,
+                 0 0 120px  rgb(52, 23, 215) ,
+                 0 0 160px  rgb(52, 23, 215) ;
+}
+.portworkdiv3{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    /* backdrop-filter: blur(5px); */
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: rgb(230, 218, 212);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+
+}
+.portworkdiv3:hover{
+   
+    color:rgb(230, 218, 212) ;
+    text-shadow: 0 0 10px rgb(230, 218, 212) ,
+                 0 0 20px rgb(230, 218, 212) ,
+                 0 0 40px rgb(230, 218, 212) ,
+                 0 0 80px rgb(230, 218, 212) ,
+                 0 0 120px rgb(230, 218, 212) ,
+                 0 0 160px rgb(230, 218, 212) ;
+}
+.portworkdiv4{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    /* backdrop-filter: blur(5px); */
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: rgb(36, 156, 221);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+
+}
+.portworkdiv4:hover{
+   
+    color:rgb(36, 156, 221) ;
+    text-shadow: 0 0 10px rgb(36, 156, 221) ,
+                 0 0 20px rgb(36, 156, 221) ,
+                 0 0 40px rgb(36, 156, 221) ,
+                 0 0 80px rgb(36, 156, 221) ,
+                 0 0 120px rgb(36, 156, 221) ,
+                 0 0 160px rgb(36, 156, 221) ;
+}
+.portworkdiv5{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    /* backdrop-filter: blur(5px); */
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: rgb(33, 215, 23);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+
+}
+.portworkdiv5:hover{
+    color:rgb(33, 215, 23) ;
+    text-shadow: 0 0 10px rgb(33, 215, 23) ,
+                 0 0 20px rgb(33, 215, 23) ,
+                 0 0 40px rgb(33, 215, 23),
+                 0 0 80px rgb(33, 215, 23) ,
+                 0 0 120px rgb(33, 215, 23) ,
+                 0 0 160px rgb(33, 215, 23) ;
+}
+.portworkdiv6{
+    background: rgba(241, 236, 236, 0.2);
+    border-radius: 16px;
+    box-shadow: 4px 4px 20px 5px rgba(0, 0, 0, 0.50);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: rgb(139, 10, 85);
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+
+}
+.portworkdiv6:hover{
+    transform: scale(1.2);
+    color:rgb(139, 10, 85) ;
+    text-shadow: 0 0 10px rgb(139, 10, 85) ,
+                 0 0 20px rgb(139, 10, 85) ,
+                 0 0 40px rgb(139, 10, 85) ,
+                 0 0 80px rgb(139, 10, 85) ,
+                 0 0 120px rgb(139, 10, 85) ,
+                 0 0 160px rgb(139, 10, 85) ;
+}
